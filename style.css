@@ -1,0 +1,52 @@
+/*Selector {
+	Property: value;
+}*/
+body {
+	background-image: url(https://images.unsplash.com/photo-1481627834876-b7833e8f5570);
+	background-size: cover;
+	color: rgba(206, 203, 255, 1.0)
+}
+
+header {
+	text-align: center;
+	margin-left: 15px;
+	margin-right: 15px;
+	background-color: rgba(38, 36, 77, 0.9);
+}
+
+h1, h2, h3 {
+	font-family: Luminari, fantasy;
+	color: rgba(154, 199, 116, 1.0);
+}
+
+section {
+	font-family: Palatino, "URW Palladio L", serif;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-right: 15px;
+  	padding-left: 15px;
+  	margin-left: 150px;
+  	margin-right: 150px;
+	background-color: rgba(38, 36, 77, 0.9);
+}
+
+aside {
+	width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-family: Luminari, fantasy;
+  background-color: rgba(53, 106, 108, 0.5);
+  color: rgba(154, 199, 116, 1.0);
+
+}
+
+button{
+	background-color: rgba(38, 36, 77, 1);
+	margin-left: 15px;
+}
+
+button:hover {
+	background-color: rgba(53, 106, 108, 1);
+	margin-left: 15px;
+}
